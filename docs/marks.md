@@ -5,16 +5,6 @@ split is the strategy:
 
 > **The code is open. The names are owned. Integration is the license.**
 
-## Why not just make it proprietary
-
-Because a proprietary agent platform does not get adopted, and an unowned name
-does not survive contact with a market. Closing the code would forfeit the thing
-that makes the ecosystem spread; leaving the names unclaimed would let anyone
-ship "RAPP Enterprise" and define the platform's reputation without ever
-building on it.
-
-So: **fork the code freely, do not take the names.**
-
 ## The frame: land and buildings
 
 Wildhaven Homes LLC is a homes company. It does real estate for humans **and**
@@ -36,10 +26,9 @@ reads like property:
 
 **You do not toll the land. You own the buildings.**
 
-That is why the two exclusions are load-bearing rather than generous. A
-foundation everyone can stand on for free is what makes the estate above it
-worth anything at all — a tolled front door would empty the neighbourhood before
-a single home got built.
+The kernel is always free. The front door is never tolled. That is a commitment,
+not a phase — the Brainstem is the ecosystem's permanent first hit, and it stays
+that way.
 
 It is also why an enterprise strain can govern the Brainstem without forking it:
 the ground floor is common land, and only the governance built on top carries a
@@ -67,7 +56,7 @@ Two exclusions, and they are load-bearing rather than oversights:
 That second exclusion is why an enterprise strain
 ([rapp-light](https://github.com/kody-w/rapp-light)) can govern the Brainstem
 without forking it — the thing being governed is free, and only the governance
-product carries a mark.
+product carries a mark. The engine stays everyone's.
 
 ## Integration is the license
 
