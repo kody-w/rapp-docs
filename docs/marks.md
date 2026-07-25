@@ -15,6 +15,36 @@ building on it.
 
 So: **fork the code freely, do not take the names.**
 
+## The frame: land and buildings
+
+Wildhaven Homes LLC is a homes company. It does real estate for humans **and**
+for AIs — that is the whole point, and it is why the ecosystem's property model
+reads like property:
+
+```
+   the free foundation          the built estate
+   ───────────────────          ────────────────
+   "RAPP" the stem              rapp-* / RAPP <thing>
+   the RAPP Brainstem           Rappter™ / rappter-*
+                                OpenRappter
+
+   the land, and the            the digital real estate —
+   front door                   where the AIs actually live
+
+   never tolled                 owned, and worth owning
+```
+
+**You do not toll the land. You own the buildings.**
+
+That is why the two exclusions are load-bearing rather than generous. A
+foundation everyone can stand on for free is what makes the estate above it
+worth anything at all — a tolled front door would empty the neighbourhood before
+a single home got built.
+
+It is also why an enterprise strain can govern the Brainstem without forking it:
+the ground floor is common land, and only the governance built on top carries a
+mark.
+
 ## What is claimed
 
 The **compound marks** — the `rapp-*` names and "RAPP&nbsp;&lt;thing&gt;" names —
@@ -73,5 +103,15 @@ canonical record governs — so the claim is corrected in exactly one place.
 A per-repo file that over-claims is a real defect, not a harmless flourish:
 asserting the open stem or the Brainstem would contradict the ecosystem's own
 promise that the front door is never tolled.
+
+## The name, kept straight
+
+The legal entity is **Wildhaven Homes LLC**. That is the name that appears in
+attribution, in `TRADEMARK.md`, and in every copyright line.
+
+Where "AI homes" appears in the estate it is a **description of the business**,
+not a second entity: Wildhaven builds homes for humans and for AIs. Use the
+legal name for legal wording; use the description when describing what the
+company does.
 
 Copyright © 2026 Wildhaven Homes LLC.
