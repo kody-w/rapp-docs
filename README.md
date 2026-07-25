@@ -20,6 +20,7 @@ Explore the ecosystem: [Installer](https://github.com/kody-w/rapp-installer) ·
 | **[Enterprise](docs/enterprise.md)** | governing the kernel without forking it: strains, the six checks, rings, and elevation as a credential |
 | **[Credentials](docs/credentials.md)** | why an agent may *use* a secret but never *see* one, and the two-key model that makes it governable |
 | **[Conformance](docs/conformance.md)** | why every RAPP repo ships a gate that proves its own README against its own code |
+| **[Marks](docs/marks.md)** | open code, owned names — what is claimed, what is deliberately not, and why integration is the license |
 
 ## The ecosystem
 
@@ -40,9 +41,20 @@ Where a document describes a property, that property has a conformance check or
 a named test in the repo that implements it. Where it does not, the document
 says so.
 
-## License
+## License and marks
 
-Released under the MIT License.
+Code and documentation: **MIT**.
 
-<sub>RAPP, RAPP Brainstem, Twin in Residence, RAPP Flight Deck, and the RAPP family of
-names are trademarks of the RAPP project. First published 2026-07-18 as part of the RAPP ecosystem.</sub>
+The compound marks of the RAPP ecosystem — the `rapp-*` and "RAPP <thing>"
+names — are claimed by **Wildhaven Homes LLC** at common law (™). The MIT
+license grants no rights to them.
+
+**"RAPP" standing alone and the RAPP Brainstem are deliberately NOT claimed.**
+The stem is open, and the Brainstem is the ecosystem's permanent free front
+door — anyone may run it, name it, teach it, and redistribute it.
+
+Integration is the license: if your product genuinely integrates with the
+ecosystem, you are already licensed to say so.
+
+See [TRADEMARK.md](TRADEMARK.md); the authoritative record is
+[TRADEMARKS.md in kody-w/rapp-train](https://kody-w.github.io/rapp-train/TRADEMARKS.md).
