@@ -41,20 +41,10 @@ Where a document describes a property, that property has a conformance check or
 a named test in the repo that implements it. Where it does not, the document
 says so.
 
-## License and marks
+## License
 
-Code and documentation: **MIT**.
+MIT — see [LICENSE](LICENSE).
 
-The compound marks of the RAPP ecosystem — the `rapp-*` and "RAPP <thing>"
-names — are claimed by **Wildhaven Homes LLC** at common law (™). The MIT
-license grants no rights to them.
+---
 
-**"RAPP" standing alone and the RAPP Brainstem are deliberately NOT claimed.**
-The stem is open, and the Brainstem is the ecosystem's permanent free front
-door — anyone may run it, name it, teach it, and redistribute it.
-
-Integration is the license: if your product genuinely integrates with the
-ecosystem, you are already licensed to say so.
-
-See [TRADEMARK.md](TRADEMARK.md); the authoritative record is
-[TRADEMARKS.md in kody-w/rapp-train](https://kody-w.github.io/rapp-train/TRADEMARKS.md).
+<sub>RAPP is a trademark of Wildhaven Homes LLC. Code is MIT licensed; the license does not grant rights to the name. [Trademark notice](TRADEMARK.md)</sub>

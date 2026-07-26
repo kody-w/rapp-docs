@@ -15,7 +15,7 @@ reads like property:
    the free foundation          the built estate
    ───────────────────          ────────────────
    "RAPP" the stem              rapp-* / RAPP <thing>
-   the RAPP Brainstem           Rappter™ / rappter-*
+   the RAPP Brainstem           Rappter / rappter-*
                                 OpenRappter
 
    the land, and the            the digital real estate —
@@ -37,8 +37,7 @@ mark.
 ## What is claimed
 
 The **compound marks** — the `rapp-*` names and "RAPP&nbsp;&lt;thing&gt;" names —
-are claimed by **Wildhaven Homes LLC** at common law (™) through use in
-commerce. `Rappter`™ and the `rappter-*` family are claimed the same way.
+are claimed by **Wildhaven Homes LLC** through use in commerce. `Rappter` and the `rappter-*` family are claimed the same way.
 
 Every ecosystem repository carries an open-source code license. **None of those
 licenses grant any right to the marks.**
@@ -68,7 +67,7 @@ that integration, with no permission slip.
 Conditions:
 
 1. The integration must actually exist and keep working.
-2. The mark takes ™ with attribution to Wildhaven Homes LLC on first mention.
+2. The mark takes  with attribution to Wildhaven Homes LLC on first mention.
 3. Your use must not claim to be the origin or the official version.
 
 Revocable for abuse or confusion. Quality is what keeps the license free.
